@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="838" height="104" viewBox="0 0 838 104">
+  <defs>
+    <filter id="Rectangle_78" x="0" y="0" width="838" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_75" data-name="Group 75" transform="translate(-76 -1321)">
+    <g transform="matrix(1, 0, 0, 1, 76, 1321)" filter="url(#Rectangle_78)">
+      <g id="Rectangle_78-2" data-name="Rectangle 78" transform="translate(9 6)" fill="#6d7698" stroke="#707070" stroke-width="1">
+        <rect width="820" height="86" stroke="none"/>
+        <rect x="0.5" y="0.5" width="819" height="85" fill="none"/>
+      </g>
+    </g>
+    <text id="womens_raincoat" data-name="womens raincoat" transform="translate(291.5 1386.5)" fill="#fffefe" stroke="rgba(39,39,39,0)" stroke-width="1" font-size="44" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">womens raincoat</tspan></text>
+  </g>
+</svg>

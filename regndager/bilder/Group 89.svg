@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="587" height="168" viewBox="0 0 587 168">
+  <g id="Group_89" data-name="Group 89" transform="translate(-1091 -839)">
+    <g id="Group_9" data-name="Group 9" transform="translate(0 -5.907)">
+      <g id="ADD_TO_CART" data-name="ADD TO CART" transform="translate(1091 844.907)" fill="#476d4c" stroke="#707070" stroke-width="1">
+        <rect width="587" height="168" stroke="none"/>
+        <rect x="0.5" y="0.5" width="586" height="167" fill="none"/>
+      </g>
+      <g id="ADD_TO_CART_TEXT" data-name="ADD TO CART TEXT" transform="translate(1195.509 903.151)">
+        <text id="ADD_TO_CART-2" data-name="ADD TO CART" transform="translate(93.205 39.821)" fill="#fff" stroke="#fff" stroke-width="1" font-size="37" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">ADD TO CART</tspan></text>
+        <path id="ic_shopping_cart_24px" d="M16.5,43.339a5.167,5.167,0,1,0,5.167,5.167A5.161,5.161,0,0,0,16.5,43.339ZM1,2V7.167H6.167l9.3,19.61-3.488,6.33a5,5,0,0,0-.646,2.48A5.183,5.183,0,0,0,16.5,40.756h31V35.588H17.587a.64.64,0,0,1-.646-.646l.078-.31,2.325-4.211H38.593a5.143,5.143,0,0,0,4.521-2.661l9.25-16.768a2.524,2.524,0,0,0,.31-1.24,2.591,2.591,0,0,0-2.584-2.584H11.877L9.449,2H1ZM42.339,43.339a5.167,5.167,0,1,0,5.167,5.167A5.161,5.161,0,0,0,42.339,43.339Z" transform="translate(-1 -2)" fill="#fff" stroke="rgba(149,152,154,0)" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

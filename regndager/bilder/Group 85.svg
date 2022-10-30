@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="929" height="87" viewBox="0 0 929 87">
+  <g id="Group_85" data-name="Group 85" transform="translate(-40 -1920)">
+    <path id="ic_expand_more_24px" d="M34.042,8.59,21.888,20.718,9.734,8.59,6,12.324,21.888,28.211,37.775,12.324Z" transform="translate(898 1945.099)"/>
+    <g id="Rectangle_82" data-name="Rectangle 82" transform="translate(40 1920)" fill="#f1f1f1" stroke="#707070" stroke-width="1">
+      <rect width="929" height="87" stroke="none"/>
+      <rect x="0.5" y="0.5" width="928" height="86" fill="none"/>
+    </g>
+    <text id="Size" transform="translate(57 1973)" stroke="rgba(39,39,39,0)" stroke-width="1" font-size="30" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Size</tspan></text>
+    <path id="ic_expand_more_24px-2" data-name="ic_expand_more_24px" d="M35.505,8.59,22.717,21.35,9.928,8.59,6,12.518,22.717,29.235,39.434,12.518Z" transform="translate(897.171 1944.075)"/>
+  </g>
+</svg>

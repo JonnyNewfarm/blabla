@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="589" height="125" viewBox="0 0 589 125">
+  <g id="Group_88" data-name="Group 88" transform="translate(-1089 -636)">
+    <g id="Group_10" data-name="Group 10" transform="translate(1089 647)">
+      <g id="Rectangle_7" data-name="Rectangle 7" stroke="#000" stroke-width="1">
+        <rect width="589" height="114" stroke="none"/>
+        <rect x="0.5" y="0.5" width="588" height="113" fill="none"/>
+      </g>
+      <text id="SMALL" transform="translate(33 73)" fill="#fff" stroke="#fff" stroke-width="1" font-size="39" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">SMALL</tspan></text>
+      <text id="MEDIUM" transform="translate(33 72)" fill="#fff6f6" stroke="#fffcfc" stroke-width="1" font-size="39" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">MEDIUM</tspan></text>
+      <text id="LARGE" transform="translate(33 78)" fill="#fff" stroke="#fff" stroke-width="1" font-size="39" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">LARGE</tspan></text>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1089 636)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="589" height="123" stroke="none"/>
+      <rect x="0.5" y="0.5" width="588" height="122" fill="none"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(1608.678 721) rotate(-135)">
+      <g id="Union_1" data-name="Union 1" transform="translate(0 0)">
+        <path d="M0,50.456V0H50.456V4.362H4.362V50.456Z" stroke="none"/>
+        <path d="M 4.36159086227417 50.45550155639648 L 1.077819797501434e-05 50.45550155639648 L 7.781982276355848e-07 7.781982276355848e-07 L 50.45550155639648 1.077819797501434e-05 L 50.45550155639648 4.36159086227417 L 4.361580848693848 4.361580848693848 L 4.36159086227417 50.45550155639648 Z" stroke="none" fill="rgba(255,255,255,0)"/>
+      </g>
+    </g>
+    <text id="SIZE" transform="translate(1122 711)" stroke="#000" stroke-width="1" font-size="39" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">SIZE</tspan></text>
+  </g>
+</svg>

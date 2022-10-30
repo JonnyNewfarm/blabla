@@ -1,0 +1,390 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+margin: 0;
+box-sizing: border-box;
+}
+
+header{
+background-color: #B7C9EE;
+height: 110px;
+margin: 0;
+display: flex;
+flex-flow: row nowrap;
+justify-content: space-between;
+align-items: center;
+padding: 0px 20px;
+
+
+
+
+}
+
+
+.burger .active{
+
+    position: fixed;
+
+
+
+
+}
+
+.list-mobile .active{
+
+    position: fixed;
+}
+
+
+
+
+.list-mobile{
+
+
+    
+    
+display: none;
+
+
+}
+
+
+
+
+.list-mobile2 a{
+
+    list-style-type: none;
+    display: block;
+    text-decoration: none;
+    color: white;
+    text-align: right;
+    padding: .5em;
+    }
+
+
+
+
+.list-mobile{
+    font-size: x-large;
+    color: white;
+
+    position: fixed;
+    list-style-type: none;
+    z-index: 999;
+    width: 60%;
+    right: 0;
+    top: 0;
+    background: #6D7698;
+    height: 100vh;
+    padding: 1em;
+    
+
+}
+
+
+
+
+
+
+
+
+.logo{
+
+    max-width: 150px;
+    cursor: pointer;
+    
+
+
+
+
+
+}
+
+
+.list{
+    display: none
+    
+
+
+
+
+
+
+
+}
+
+
+.discount{
+
+    width: 483px;
+
+    
+
+}
+
+
+
+.boks{
+    width: 100%;
+    height: 100%;
+
+
+
+}
+
+.pris{
+    font-size: small;
+    padding-left: 20px;
+
+
+}
+
+.size{
+    width: 440px;
+    padding-left: 20px;
+    padding-top: 20px;
+  
+
+
+
+
+
+}
+
+.add-cart{
+
+    width: 460px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+
+
+
+}
+
+
+.bottom-line{
+
+    background-color: #6D7698 ;
+    height: 100px;
+    justify-content: flex-start;
+     
+     padding: 0px 100px;
+     }
+
+     .lady{
+         width: 100%;
+
+
+
+     }
+
+     .pris-desktop{
+
+        display: none;
+     }
+
+     .custom-select{
+
+        display: none;
+    }
+
+
+
+
+    .select-mobile{
+
+        font-size: 1.5rem;
+        height: 40px;
+        width: 450px;
+        
+        
+        
+        
+    }
+
+
+    .custom-select-mobile{
+        padding-bottom: 60px;
+        display: block;
+        padding-left: 15px;
+        
+
+
+
+    }
+
+
+    .desktop{
+
+            display: none;
+        }
+
+@media (min-width: 768px) { 
+
+    .select-mobile{
+        display: none;
+    }
+    
+    .custom-select-mobile{
+        display: none;
+    }
+
+
+    .discount{
+        display: none;
+
+
+
+    }
+    
+    
+    
+    .burger{
+    display: none;
+    }
+
+
+    .desktop{
+
+        display: flex;
+        justify-content: space-between;
+        flex: 0 0 45%;
+        color: white;
+        text-decoration: none;
+        
+
+        
+    }
+
+    .desktop2{
+
+        color: white;
+        text-decoration: none;
+
+    }
+
+    .list{
+        display: flex;
+        flex-flow: row;
+        justify-content: space-around;
+        align-items: center;
+        padding: 0px 50px; ;
+
+    }
+
+    .pris{
+        display: none;
+    }
+
+    .size{
+
+        display: none;
+    }
+    .add-cart{
+        display: none;
+    }
+
+    .lady-desktop{
+
+        display: flex;
+        width: 500px;
+        
+
+
+
+
+
+    }
+    .ladydesktop1{
+        display: flex;
+        padding-left: 30px;
+        padding-top: 20px;
+        padding-bottom: 200px;
+
+    
+
+
+    }
+
+    .pris-desktop{
+        padding-left: 300px;
+        font-size: smaller;
+        display: flex;
+        flex-direction: column;
+        
+
+
+
+    }
+
+    .size-desktop{
+        padding-top: 40px;
+
+        width: 400px;
+
+        cursor: pointer;
+
+
+    }
+
+    .add-cart-desktop{
+        padding-top: 40px;
+        width: 400px;
+        cursor: pointer;
+    }
+    
+    .description{
+
+        padding-top: 40px;
+
+        width: 400px;
+
+        cursor: pointer;
+
+
+    }
+
+
+    .listlink{
+        text-decoration: none;
+        color: black;
+    }
+
+    .desktop3{
+        border: 3px solid white;
+        padding: 8px;
+        border-radius: 1.5em;
+
+
+
+    }
+
+
+    select{
+
+        font-size: 2rem;
+        height: 70px;
+        width: 400px;
+        
+        
+    
+        
+    
+    
+    
+    }
+
+
+    .custom-select{
+        padding-bottom: 60px;
+        display: block;
+
+
+
+    }
+
+    
+
+
+
+  }
